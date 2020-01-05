@@ -1,0 +1,15 @@
+#header-principal {
+  background: #4a90e2;
+}
+
+#header-principal img {
+  margin: 10px;
+  margin-left: 30px;
+}
+
+#header-principal span {
+  margin: 10px;
+  margin-right: 30px;
+  margin-top: 15px;
+  float: right;
+}

@@ -1,0 +1,30 @@
+.post img {
+  border-radius: 50%;
+  position: absolute;
+}
+
+.post hr {
+  margin-bottom: 12px;
+  margin-top: 12px;
+  border-top: 0px solid #000;
+}
+
+.post h4,
+.post h5,
+.post span {
+  margin-left: 48px;
+  position: relative;
+}
+
+.post .post-date {
+  color: #999;
+  font-weight: 500;
+}
+
+.post {
+  margin: 10px 10px 2px;
+}
+
+.post p {
+  margin: 15px;
+}
